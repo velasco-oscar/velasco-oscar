@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI for Pokémon Red.<br>I’m currently learning more about artificial intelligence, focusing on unsupervised learning techniques.<br>
+🔭 I’m currently working on an AI for Pokémon Red.<br>🌱 I’m currently learning more about artificial intelligence, focusing on unsupervised learning techniques.<br>
 
 
 ## 🌐 Socials:
